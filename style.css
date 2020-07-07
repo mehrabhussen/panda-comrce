@@ -1,3 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fondamento', cursive;
+}
 .orange-bg{
     background-color: #fceae8;
     border-radius: 10px;
